@@ -1,9 +1,17 @@
-.title {
-  color: #02ccba;
-}
 
 .logo{
-  height:30px;
-  width:30px;
+  height:200px;
+  width:200px;
   float:left;
+}
+
+header{
+  height:200px;
+  width:100%;
+  background-color:#239b76;
+  color:white;
+}
+
+top{
+  color:black;
 }
